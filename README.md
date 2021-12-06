@@ -30,19 +30,22 @@ Se instalará ipython con todas sus dependencias. En el repositorio PyPI hay dec
 
 ## Ejecutando las pruebas ⚙️
 
-Dentro del directorio encontrarás tres archivos de python:
-- jamones.py
-- sirenas.py
-- veneno. py
+Dentro del directorio encontrarás tres carpetas con un archivo para cada desafio :
+- \jamones\jamones.py
+- \sirenas\sirenas.py
+- \veneno\veneno. py
 
 Los datasets y archivos se encuentran en la carpeta. Puedes correr el desafío que quieras desde la linea de comandos (en windows) utilizando por ejemplo:
-./jamones.py
+./jamones.py (siempre y cuando te encuentres dentro del directorio correspondiente)
 
-O en una terminal de linux, asegurandote de cambiar los permisos a un ejecutable (usando: sudo +chmod +x jamones.py - por ejemplo). También puedes ejecutarlo desde una GUI de manera más sencilla. Los requerimientos de cada desafío se encuentran en el pdf: Prueba técnica para data scientist_Clave_A
+O en una terminal de linux, asegurandote de cambiar los permisos a un ejecutable (usando: sudo +chmod +x jamones.py - por ejemplo). También puedes ejecutarlo desde una GUI de manera más sencilla. Los requerimientos de cada desafío se encuentran en el pdf: Prueba_tecnica_para_data_scientist_Clave_A
 
-Los archivos *.CSV se actualizarán automáticamente. Asegúrate de no tenerlos abiertos con otro programa externo para que se puedan guardar
+Los archivos *.CSV se actualizarán automáticamente cuando ejecutes los scripts. Asegúrate de no tenerlos abiertos con otro programa externo para que se puedan guardar
 
-La idea para las tres prebas y los pasos a seguir se encuentran en los videos adjuntos en la carpeta del proyecto.
+La idea para las tres prebas y los pasos a seguir se encuentran en los videos adjuntos en las carpetas de cada proyecto:
+- \veneno\Idea_Aguas_venenosas.mp4
+- \jamones\Idea_hacerla_de_Jamon.mp4
+- \sirenas\Idea_Sirenas.mp4
 
 
 
@@ -52,7 +55,7 @@ La idea para las tres prebas y los pasos a seguir se encuentran en los videos ad
 * **Hans Israel Morales** - *Trabajo Inicial* - [hansisrael](https://github.com/hansisrael)
 * **Nohemy Quintana** - *Documentación* 
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quienes han participado en este proyecto. 
 
 
 ## Expresiones de Gratitud 🎁
